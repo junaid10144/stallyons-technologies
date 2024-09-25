@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint", // ESLint support for linting
+    "esbenp.prettier-vscode", // Prettier for code formatting
+    "visualstudioexptteam.vscodeintellicode", // AI-assisted IntelliSense
+    "streetsidesoftware.code-spell-checker", // Spell checker for code
+    "ms-vscode.vscode-typescript-tslint-plugin", // TypeScript TSLint support
+    "mhutchie.git-graph", // Git graph visualization
+    "github.vscode-pull-request-github", // GitHub Pull Request extension
+    "editorconfig.editorconfig", // EditorConfig for maintaining consistent coding styles
+    "redhat.vscode-yaml",
+    "orta.vscode-jest"
+  ]
+}

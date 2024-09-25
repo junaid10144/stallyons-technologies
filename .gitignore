@@ -1,0 +1,45 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# TypeScript
+*.tsbuildinfo
+dist/
+
+# # Logs
+# logs/
+# *.log
+# *.csv
+# *.dat
+# *.out
+# *.pid
+# *.gz
+
+# # Environment Variables
+# .env*
+# !.env.example
+
+# # VSCode settings
+# .vscode/
+
+# # Docker
+# docker-compose.override.yml
+# docker-compose.dev.yml
+# docker-compose.prod.yml
+# docker-compose.test.yml
+
+# # Jest
+# coverage/
+# jest/
+# jest.config.ts
+
+# # IDE settings
+# .idea/
+# .DS_Store
+# .vscode/
+
+# # Prettier and ESLint
+# .prettierrc
+# .eslintrc.js
